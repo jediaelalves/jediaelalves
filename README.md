@@ -34,9 +34,9 @@ Tenho paixão por backend e desenvolvimento web com Java, sistemas robustos e so
 ---
 
 
-## 🔹 Estatísticas
+## 🔹 Contato
 
-![jediaelalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=jediaelalves&show_icons=true&theme=synthwave)
+- 📧 Email: jediael.alves@gmail.com  
 
 ---
 
