@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou Jediael 👋
 
-<!--
-**jediaelalves/jediaelalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-17+-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8+-orange)
+![Spring](https://img.shields.io/badge/Spring-Boot-green)
+![Maven](https://img.shields.io/badge/Maven-3+-red)
+![Jakarta Faces](https://img.shields.io/badge/Jakarta-Faces-purple)
+![PrimeFaces](https://img.shields.io/badge/PrimeFaces-blueviolet)
 
-Here are some ideas to get you started:
+Desenvolvedor **Java** com formação em **Sistemas de Informação** e atualmente estudando **Pós-graduação em Java Applied Engineering**.  
+Tenho paixão por backend e desenvolvimento web com Java, sistemas robustos e soluções bem estruturadas, sempre buscando escrever código limpo, escalável e testável.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Sobre mim
+
+- 🎓 Bacharel em Sistemas de Informação  
+- 📖 Cursando Pós-graduação: Java Applied Engineering  
+- 💻 Experiência em **Java, JDBC, Spring Boot, Jakarta Faces, PrimeFaces, Maven**
+- 📚 Estudo de design patterns, arquitetura de software e boas práticas  
+- 🎯 Motivado a construir soluções eficientes e elegantes
+
+---
+
+## 🔹 Tecnologias & Skills
+
+| Linguagens | Frameworks/Bibliotecas | Banco de Dados | Ferramentas |
+|------------|-----------------------|---------------|-------------|
+| Java 17+   | Spring Boot           | MySQL         | Maven       |
+| SQL        | JDBC                  | PostgreSQL    | Git         |
+| Jakarta Faces / PrimeFaces | JUnit/Testes | SQLite        | Docker     |
+| OOP/POO    | Design Patterns       |               |             |
+
+---
+
+
+## 🔹 Estatísticas
+
+![jediaelalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=jediaelalves&show_icons=true&theme=synthwave)
+
+---
+
+> *"Software elegante é aquele que resolve problemas de forma simples e robusta."*
+
+---
+
+Obrigado por visitar! Sinta-se à vontade para explorar meus projetos e entrar em contato para colaboração 🚀
